@@ -2,7 +2,7 @@
 I have analyzed the data of uma mart for the year 2022 this business deals with online products through different companies like Amazon, Flipkart and many more.
 
 The objective of this project:-
-Uma mart wants to create an annual report for 2022. So that they can understand their customers grow more sales in 2023.
+Uma Mart wants to create an annual report for 2022. So that they can understand their customers grow more sales in 2023.
 
 Questions:-
 1. Compare the sales and orders using a single chart.
@@ -13,4 +13,4 @@ Questions:-
 6. Relation between Age and Gender on the number of orders.
 7. Which channel is contributing to maximum sales?
 8. Highest selling category? etc.
-where answered in this analysis have also shared the doc. file for sample insight.
+where answered in this analysis I have also shared the doc. file for sample insight.
